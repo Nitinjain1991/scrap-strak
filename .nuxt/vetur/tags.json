@@ -1,0 +1,11 @@
+{
+  "BtnBig": {
+    "description": "Auto imported from components/Btn-big.vue"
+  },
+  "BtnSmall": {
+    "description": "Auto imported from components/Btn-small.vue"
+  },
+  "InterLinks": {
+    "description": "Auto imported from components/Inter-links.vue"
+  }
+}

@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Futura";
+  font-weight: 400;
+  src: url(../fonts/futura/FuturaCyrillicregular.ttf);
+}
+
+@font-face {
+  font-family: "Futura";
+  font-weight: 500;
+  src: url(../fonts/futura/FuturaCyrillicMedium.ttf);
+}
+
+@font-face {
+  font-family: "Futura";
+  font-weight: 600;
+  src: url(../fonts/futura/FuturaCyrillicBold.ttf);
+}
+
+/* stark-ai-homepage1 page css.... */
+* {
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+}
+
+.main-selection input {
+  display: none;
+}
+
+.main-selection #jobsearch:checked ~ .jobsearch1,
+.main-selection #Practice:checked ~ .Practice1,
+.main-selection #BuildProfile:checked ~ .BuildProfile1,
+.main-selection #Insight:checked ~ .Insight1 {
+  background-color: #ea836e;
+}
+
+.main-selection #jobsearch:checked ~ .jobsearch1 svg path,
+.main-selection #Practice:checked ~ .Practice1 svg path,
+.main-selection #BuildProfile:checked ~ .BuildProfile1 svg path,
+.main-selection #Insight:checked ~ .Insight1 svg path {
+  fill: white !important;
+}
+
+.main-selection input:checked ~ .jobsearch1 h2,
+.main-selection input:checked ~ .Practice1 h2,
+.main-selection input:checked ~ .BuildProfile1 h2,
+.main-selection input:checked ~ .Insight1 h2 {
+  color: white !important;
+}
+
+.main-selection input:checked ~ .jobsearch1 p,
+.main-selection input:checked ~ .Practice1 p,
+.main-selection input:checked ~ .BuildProfile1 p,
+.main-selection input:checked ~ .Insight1 p {
+  color: white !important;
+}
+
+/* stark-ai-homepage2 page css.... */
+.DarkJobsearch1,
+.Darkpractice1,
+.DarkBuildProfile1,
+.DarkInsight1 {
+  background-color: white;
+  color: rgb(0, 0, 0) !important;
+}
+
+.DarkJobsearch1 > h2,
+.Darkpractice1 > h2,
+.DarkBuildProfile1 > h2,
+.DarkInsight1 > h2 {
+  color: rgb(0, 0, 0) !important;
+}
+
+.main-selection #DarkJobsearch:checked ~ .DarkJobsearch1,
+.main-selection #Darkpractice:checked ~ .Darkpractice1,
+.main-selection #DarkBuildProfile:checked ~ .DarkBuildProfile1,
+.main-selection #DarkInsight:checked ~ .DarkInsight1 {
+  background-color: #ea836e;
+  color: rgb(255, 255, 255) !important;
+}
+
+.main-selection #DarkJobsearch:checked ~ .DarkJobsearch1 svg path,
+.main-selection #Darkpractice:checked ~ .Darkpractice1 svg path,
+.main-selection #DarkBuildProfile:checked ~ .DarkBuildProfile1 svg path,
+.main-selection #DarkInsight:checked ~ .DarkInsight1 svg path {
+  fill: url(#paint0_linear_hover) !important;
+}
+
+.main-selection input:checked ~ .DarkJobsearch1 h2,
+.main-selection input:checked ~ .Darkpractice1 h2,
+.main-selection input:checked ~ .DarkBuildProfile1 h2,
+.main-selection input:checked ~ .DarkInsight1 h2 {
+  color: var(--bg-indigo-950) !important;
+}

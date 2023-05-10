@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Stark-ai-homepage1",
+    "path": "/Stark-ai-homepage1",
+    "component": "C:\\\\Users\\\\ABHI\\\\Desktop\\\\figma-to-css\\\\pages\\\\Stark-ai-homepage1.vue",
+    "chunkName": "pages/Stark-ai-homepage1"
+  },
+  {
+    "name": "Stark-ai-homepage2",
+    "path": "/Stark-ai-homepage2",
+    "component": "C:\\\\Users\\\\ABHI\\\\Desktop\\\\figma-to-css\\\\pages\\\\Stark-ai-homepage2.vue",
+    "chunkName": "pages/Stark-ai-homepage2"
+  },
+  {
+    "name": "Stark-ai-v1",
+    "path": "/Stark-ai-v1",
+    "component": "C:\\\\Users\\\\ABHI\\\\Desktop\\\\figma-to-css\\\\pages\\\\Stark-ai-v1.vue",
+    "chunkName": "pages/Stark-ai-v1"
+  },
+  {
+    "name": "Stark-ai-v2",
+    "path": "/Stark-ai-v2",
+    "component": "C:\\\\Users\\\\ABHI\\\\Desktop\\\\figma-to-css\\\\pages\\\\Stark-ai-v2.vue",
+    "chunkName": "pages/Stark-ai-v2"
+  },
+  {
+    "name": "Stark-ai-v3",
+    "path": "/Stark-ai-v3",
+    "component": "C:\\\\Users\\\\ABHI\\\\Desktop\\\\figma-to-css\\\\pages\\\\Stark-ai-v3.vue",
+    "chunkName": "pages/Stark-ai-v3"
+  },
+  {
+    "name": "Stark-ai-v4",
+    "path": "/Stark-ai-v4",
+    "component": "C:\\\\Users\\\\ABHI\\\\Desktop\\\\figma-to-css\\\\pages\\\\Stark-ai-v4.vue",
+    "chunkName": "pages/Stark-ai-v4"
+  },
+  {
+    "name": "Stark-ai-v5",
+    "path": "/Stark-ai-v5",
+    "component": "C:\\\\Users\\\\ABHI\\\\Desktop\\\\figma-to-css\\\\pages\\\\Stark-ai-v5.vue",
+    "chunkName": "pages/Stark-ai-v5"
+  },
+  {
+    "name": "videoprofile",
+    "path": "/videoprofile",
+    "component": "C:\\\\Users\\\\ABHI\\\\Desktop\\\\figma-to-css\\\\pages\\\\videoprofile.vue",
+    "chunkName": "pages/videoprofile"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\ABHI\\\\Desktop\\\\figma-to-css\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]

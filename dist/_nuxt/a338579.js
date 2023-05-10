@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{314:function(e,n,t){"use strict";t.r(n);var o={name:"IndexPage",components:{StarkAiHomepage1:t(306).default}},l=t(44),component=Object(l.a)(o,(function(){var e=this._self._c;return e("div",[e("StarkAiHomepage1")],1)}),[],!1,null,null,null);n.default=component.exports}}]);

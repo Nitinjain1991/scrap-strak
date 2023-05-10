@@ -1,0 +1,33 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/btn-big.js": "components/btn-big.js",
+    "components/btn-small.js": "components/btn-small.js",
+    "components/inter-links.js": "components/inter-links.js",
+    "pages/Stark-ai-homepage1.js": "pages/Stark-ai-homepage1.js",
+    "pages/Stark-ai-homepage2.js": "pages/Stark-ai-homepage2.js",
+    "pages/Stark-ai-v1.js": "pages/Stark-ai-v1.js",
+    "pages/Stark-ai-v2.js": "pages/Stark-ai-v2.js",
+    "pages/Stark-ai-v3.js": "pages/Stark-ai-v3.js",
+    "pages/Stark-ai-v4.js": "pages/Stark-ai-v4.js",
+    "pages/Stark-ai-v5.js": "pages/Stark-ai-v5.js",
+    "pages/index.js": "pages/index.js",
+    "pages/videoprofile.js": "pages/videoprofile.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/btn-big.js": "components/btn-big.js.map",
+    "components/btn-small.js": "components/btn-small.js.map",
+    "components/inter-links.js": "components/inter-links.js.map",
+    "pages/Stark-ai-homepage1.js": "pages/Stark-ai-homepage1.js.map",
+    "pages/Stark-ai-homepage2.js": "pages/Stark-ai-homepage2.js.map",
+    "pages/Stark-ai-v1.js": "pages/Stark-ai-v1.js.map",
+    "pages/Stark-ai-v2.js": "pages/Stark-ai-v2.js.map",
+    "pages/Stark-ai-v3.js": "pages/Stark-ai-v3.js.map",
+    "pages/Stark-ai-v4.js": "pages/Stark-ai-v4.js.map",
+    "pages/Stark-ai-v5.js": "pages/Stark-ai-v5.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/videoprofile.js": "pages/videoprofile.js.map",
+    "server.js": "server.js.map"
+  }
+}
